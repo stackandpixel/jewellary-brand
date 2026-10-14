@@ -1,0 +1,6 @@
+{
+  "name": "GoldenAura Jewellery",
+  "description": "Premium Indian Jewellery E-Commerce website for 1-gram gold, gold-plated, bridal and festive jewellery collections in Pune, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
